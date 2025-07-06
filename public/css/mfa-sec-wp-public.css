@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#loginform p.description {
+    margin-top: 1em;
+    color: #555;
+}
+
+#login #mfa_sec_wp_code {
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 5px;
+}
